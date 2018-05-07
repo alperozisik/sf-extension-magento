@@ -1,0 +1,33 @@
+{
+  "name": "sf-extension-magento",
+  "version": "1.0.0",
+  "description": "Smartface extension for Magento",
+  "main": "magento.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperozisik/sf-extension-magento.git"
+  },
+  "keywords": [
+    "magento",
+    "smartface",
+    "shop",
+    "commerce"
+  ],
+  "author": {
+    "name": "Smartface",
+    "email": "info@smartface.io",
+    "url": "http://smartface.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alperozisik/sf-extension-magento/issues"
+  },
+  "homepage": "https://github.com/alperozisik/sf-extension-magento#readme",
+  "maintainers": [{
+    "name": "Alper Ozisik",
+    "email": "alper.ozisik@smartface.io"
+  }],
+}
